@@ -1,1 +1,1 @@
-model_path=7/77be4888357c42ae94eb4e5d211dc9b0/artifacts/model/model.pkl
+model_path=10/3890696e6ec648698d7c0976a3d36d3e/artifacts/model/model.pkl
